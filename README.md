@@ -1,6 +1,6 @@
-# Thesis repository for the Master of Data Science for Public Policy (MDS) at Hertie School
+# SEEING THE FOREST THROUGH THE TREES: EXPLORING DEFORESTATION TRENDS IN COLOMBIA WITH MACHINE LEARNING
 
-**SEEING THE FOREST THROUGH THE TREES: EXPLORING DEFORESTATION TRENDS IN COLOMBIA WITH MACHINE LEARNING**
+Thesis repository for the Master of Data Science for Public Policy (MDS) at Hertie School
 
 **Authors**
 - Milton Mier Santander, MDS 2025
